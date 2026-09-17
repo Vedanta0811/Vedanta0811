@@ -1,48 +1,25 @@
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║              VEDANTA // AI SYSTEM                ║
-║                                                  ║
-║     MACHINE LEARNING • AI • NLP • MLOPS          ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+<div align="center">
 
+# ⚡ VEDANTA // AI SYSTEM
 
-SYSTEM // VEDANTA
-──────────────────────────────────────────────────
+### AI • MACHINE LEARNING • MLOPS • BACKEND
 
-> initializing AI/ML system...
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Initializing+AI%2FML+System...;Building+Intelligent+Systems;Training+Models+%7C+Shipping+Software;Learning+%E2%86%92+Building+%E2%86%92+Deploying" />
 
+</div>
 
-> help
+---
 
-available_commands:
+## `$ whoami`
 
-  > whoami
-  > system
-  > projects
-  > stack
-  > metrics
-  > activity
-  > connect
-
-
-> whoami
-
-vedanta
-
-AI/ML developer
-building intelligent systems
-
-
-> projects
-
-01 // GitOnboard
-02 // Fake News Detection
-03 // Traffic Accident Severity Analytics
-
-
-> stack
-
-Python      PyTorch       FastAPI
-Docker      Kubernetes    Git
-Pandas      Scikit-learn  Transformers
+```yaml
+name: Vedanta Verma
+username: Vedanta0811
+role: AI/ML Developer
+focus:
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - MLOps
+  - Backend Engineering
+currently_building: Intelligent AI systems
