@@ -1,17 +1,48 @@
-<div align="center">
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║              VEDANTA // AI SYSTEM                ║
+║                                                  ║
+║     MACHINE LEARNING • AI • NLP • MLOPS          ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 
-# 👋 Hi, I'm Vedanta Verma
 
-### AI/ML Developer | Building Intelligent Systems
+SYSTEM // VEDANTA
+──────────────────────────────────────────────────
 
-</div>
+> initializing AI/ML system...
 
----
 
-## > whoami
+> help
 
-```text
-Name     : Vedanta Verma
-Username : Vedanta0811
-Focus    : AI • Machine Learning • NLP
-Status   : Building & Learning 🚀
+available_commands:
+
+  > whoami
+  > system
+  > projects
+  > stack
+  > metrics
+  > activity
+  > connect
+
+
+> whoami
+
+vedanta
+
+AI/ML developer
+building intelligent systems
+
+
+> projects
+
+01 // GitOnboard
+02 // Fake News Detection
+03 // Traffic Accident Severity Analytics
+
+
+> stack
+
+Python      PyTorch       FastAPI
+Docker      Kubernetes    Git
+Pandas      Scikit-learn  Transformers
