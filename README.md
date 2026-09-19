@@ -2,7 +2,7 @@
 
 #  VEDANTA // AI SYSTEM
 
-### AI • MACHINE LEARNING • MLOPS • BACKEND
+### AI • MACHINE LEARNING • MLOPS • DEVOPS
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Initializing+AI%2FML+System...;Building+Intelligent+Systems;Machine+Learning+%7C+NLP+%7C+MLOps;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Repeat" alt="Typing SVG" />
 
